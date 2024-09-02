@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="fondo.jpg" />
+    <None Remove="fondo2.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="fondo.jpg" />
+    <Resource Include="fondo2.jpg" />
+  </ItemGroup>
+
+</Project>

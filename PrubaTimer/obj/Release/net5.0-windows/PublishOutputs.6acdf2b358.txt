@@ -1,0 +1,5 @@
+C:\Users\REMS\source\repos\PrubaTimer\PrubaTimer\bin\Release\net5.0-windows\publish\PrubaTimer.exe
+C:\Users\REMS\source\repos\PrubaTimer\PrubaTimer\bin\Release\net5.0-windows\publish\PrubaTimer.dll
+C:\Users\REMS\source\repos\PrubaTimer\PrubaTimer\bin\Release\net5.0-windows\publish\PrubaTimer.deps.json
+C:\Users\REMS\source\repos\PrubaTimer\PrubaTimer\bin\Release\net5.0-windows\publish\PrubaTimer.runtimeconfig.json
+C:\Users\REMS\source\repos\PrubaTimer\PrubaTimer\bin\Release\net5.0-windows\publish\PrubaTimer.pdb
